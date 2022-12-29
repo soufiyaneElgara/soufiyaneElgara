@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer/Amateur Writer
 ---------------------------------
 
-Soufiyane EL GARA, is an engineering student, and an amateur writer, he is a full time tech learner, how shares what he learns, he believes in Collaborating and building collective knowledge.
+
+Soufiyane EL GARA, is an engineering student, and an amateur writer, he is a full time tech learner, who shares what he learns, he believes in Collaborating and building collective knowledge.
+
+Soufiyane EL GARA, est un étudiant en ingénierie, et un écrivain amateur, il est un apprenant en technologie à temps plein, qui partage ce qu'il apprend, il croit en collaboration et la construction de connaissances collectives.
+
 
 *   🌍  I'm based in Rabat, Morocco
 *   ✉️  You can contact me at [soufiyaneelgara@gmail.com](mailto:soufiyaneelgara@gmail.com) or [soufiyane@proton.me](soufiyane@proton.me)
