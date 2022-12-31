@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ***Soufiyane EL GARA***
-=========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Soufiyane EL GARA**
+===================================================================================================================================
 
 Software Developer/Amateur Writer
 ---------------------------------
-
 
 Soufiyane EL GARA, is an engineering student, and an amateur writer, he is a full time tech learner, who shares what he learns, he believes in Collaborating and building collective knowledge.
 
 Soufiyane EL GARA, est un étudiant en ingénierie, et un écrivain amateur, il est un apprenant en technologie à temps plein, qui partage ce qu'il apprend, il croit en collaboration et la construction de connaissances collectives.
 
-
-*   🌍  I'm based in Rabat, Morocco
-*   ✉️  You can contact me at [soufiyaneelgara@gmail.com](mailto:soufiyaneelgara@gmail.com) or [soufiyane@proton.me](soufiyane@proton.me)
+* 🌍  I'm based in Rabat, Morocco
+* ✉️  You can contact me at 
+  * [soufiyaneelgara@gmail.com](mailto:soufiyaneelgara@gmail.com) 
+  * [soufiyane@proton.me](soufiyane@proton.me)
 
 ### Skills 
 <p align="left">
@@ -24,10 +24,9 @@ Soufiyane EL GARA, est un étudiant en ingénierie, et un écrivain amateur, il 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-                    
- ### Socials
-                  
-                  
+
+### Socials
+
 <p align="left">                     
                       <a href="https://www.github.com/soufiyaneElgara " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                       <a href="https://www.linkedin.com/in/soufiyaneelgara/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
