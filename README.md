@@ -1,14 +1,12 @@
-# <div align="center">Hi 👋, My name is Soufiyane EL GARA</div>
+# Hello 👋, My name is Soufiyane EL GARA! I'm a software engineer & <a href="https://leonnoel.com/100devs/"> 100Devs </a> alumna
+
+I am a full-stack software engineer proficient in HTML, CSS, JavaScript, Node.js, MongoDB, React, and the Java ecosystem, including Spring Framework. I specialize in creating excellent, responsive websites tailored to my clients' needs while leveraging innovative solutions and collaboration to solve complex problems. Whether working with Java-based backends or modern web technologies, I am committed to delivering high-quality, scalable applications.
 
 
-# <div align="center"> **Software Engineer**</div> 
+All of my projects are available <a href ="https://soufiyaneelgara.netlify.app/"> here </a>
 
+You can reach me @ [soufiyaneelgara@gmail.com](mailto:soufiyaneelgara@gmail.com) 
 
-* I'm a software engineer with a passion for coding and problem-solving.
-* 🌍 I'm based in Rabat, Morocco
-* ✉️ You can contact me at :
-  * [soufiyaneelgara@gmail.com](mailto:soufiyaneelgara@gmail.com) 
-  * [soufiyane@proton.me](soufiyane@proton.me)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
